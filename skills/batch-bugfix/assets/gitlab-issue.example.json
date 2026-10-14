@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "host": "gitlab.example.invalid",
+  "project_id": 7,
+  "project_path": "example/demo",
+  "kind": "issue",
+  "key": "example-case-001",
+  "title": "[example] Trigger produces an incorrect result",
+  "description": "Synthetic example only. Replace with actual reproduction and acceptance evidence."
+}

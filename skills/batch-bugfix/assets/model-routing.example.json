@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "roles": {
+    "small": {
+      "model": null,
+      "reasoning_effort": null
+    },
+    "standard": {
+      "model": null,
+      "reasoning_effort": null
+    },
+    "deep": {
+      "model": null,
+      "reasoning_effort": null
+    }
+  }
+}

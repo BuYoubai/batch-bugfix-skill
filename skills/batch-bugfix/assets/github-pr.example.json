@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "host": "github.com",
+  "repository": "example/demo",
+  "repository_id": 123,
+  "kind": "pr",
+  "key": "example-batch-001",
+  "title": "[example] Fix the confirmed batch",
+  "body": "Synthetic example only. Replace with actual changes, before/after evidence, scope, risk, rollback and remaining limitations.",
+  "head_branch": "fix/example-batch-001",
+  "base_branch": "main",
+  "head_sha": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+  "base_sha": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "draft": true
+}

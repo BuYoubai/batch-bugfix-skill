@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.batch-bugfix/
+publication-state*.json
+publication-state*.json.lock
+*.log

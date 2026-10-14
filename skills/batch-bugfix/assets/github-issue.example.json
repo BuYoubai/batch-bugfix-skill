@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "host": "github.com",
+  "repository": "example/demo",
+  "repository_id": 123,
+  "kind": "issue",
+  "key": "example-case-001",
+  "title": "[example] Trigger produces an incorrect result",
+  "body": "Synthetic example only. Replace with the actual baseline, supported input, reproduction, expected behavior, normal control, scope and acceptance criteria."
+}
